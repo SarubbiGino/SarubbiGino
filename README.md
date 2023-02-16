@@ -1,7 +1,7 @@
 # 💫 About Me:
 20 años 😁<br>Graduado en Escuela Técnica UBA 🤓<br>Técnico en  Tecnologías de la información y la comunicación.<br>Desarrollador Web JR 🤓🖥️  
 
-#Mi otro Github: https://github.com/GinoSarubbi
+## Mi otro Github: https://github.com/GinoSarubbi
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PacoBarel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gino-sarubbi-479756237) 
